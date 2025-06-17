@@ -1,70 +1,61 @@
-# 🐍 Python Mini Projects Collection
+<h1 align="center">Hi 👋, I'm Prince</h1>
+<h3 align="center">A passionate Python and future AI developer</h3>
 
-Welcome to my collection of Python beginner-friendly projects! 🚀  
-This repository includes small yet useful Python programs that cover core concepts like:
-
-- ✅ Variables & Data Types  
-- ✅ Conditionals (`if`, `elif`, `else`)  
-- ✅ Loops (`while`)  
-- ✅ Functions  
-- ✅ Input/Output  
-- ✅ Basic String Operations
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&width=440&lines=Python+Enthusiast;Learning+AI+Development;Loves+Building+Cool+Projects" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔐 Login System (Updated)
-- Now includes smart password reset logic
-- Prevents password reset for unknown users
-- Cleaner return-based function structure
+## 🔐 Login System (Updated Project)
+- Smart password reset logic using Python functions
+- Prevents reset for unknown usernames
+- Based on real-world login system flow
 
 ---
 
-## 📁 What's Inside?
+### 🧑‍💻 About Me
 
-| Project Name                | Description                                       |
-|----------------------------|---------------------------------------------------|
-| Swap Numbers               | Swap values between two variables.                |
-| Arithmetic Operations      | Perform sum, difference, product, and division.   |
-| Grading System             | Display grades based on marks.                   |
-| Double Space Cleaner       | Remove double spaces in a message.               |
-| Positive/Negative Checker  | Determine if a number is +ve, -ve or zero.        |
-| Leap Year Checker          | Check if a year is a leap year.                  |
-| Multiplication Table       | Generate a multiplication table of any number.   |
-| Sum of Natural Numbers     | Add first 10 natural numbers.                    |
+- 🔭 I’m currently learning **Python** and exploring **AI Development**
+- 👯 I’m building small projects to sharpen my skills
+- 🌱 I’m focused on becoming a **creative and smart developer**
+- 📫 How to reach me: **vyasp4327@gmail.com**
 
 ---
 
-## 🛠 Technologies Used
+### 🧰 Apps I Use Frequently
 
-- Python 3.x
-- VS Code
-- Git & GitHub
-
----
-
-## 🤝 Let's Connect
-
-If you liked this project or found it helpful, feel free to:
-
-⭐ Star this repository  
-📬 Open an issue or pull request  
-📌 Follow me on GitHub: [Prince3082]
+<p align="left">
+  <img src="https://github.com/Prince3082/Prince3082/assets/160976229/2c7becc7-690a-4191-8cb1-b7efc84a0a9a" alt="VS Code" width="48" />
+  <img src="https://github.com/Prince3082/Prince3082/assets/160976229/7e1d7451-263e-4745-b94f-8e313e55e1a5" alt="GitHub Desktop" width="48" />
+</p>
 
 ---
 
+### 🛠️ Tech Stack
 
-
-> Add a screenshot of one of your projects if you want to show off the terminal or VS Code.
-
----
-
-## 🧠 Learning Goals
-
-- Practice basic Python syntax
-- Improve logic-building skills
-- Get familiar with Git & GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ---
 
-> This is just the beginning... More features and projects coming soon!
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince3082&show_icons=true&theme=tokyonight" alt="Prince's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince3082&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📧 Email: **vyasp4327@gmail.com**
+
+---
+
+> *Let’s build something amazing together!*
