@@ -12,6 +12,13 @@ This repository includes small yet useful Python programs that cover core concep
 
 ---
 
+## 🔐 Login System (Updated)
+- Now includes smart password reset logic
+- Prevents password reset for unknown users
+- Cleaner return-based function structure
+
+---
+
 ## 📁 What's Inside?
 
 | Project Name                | Description                                       |
