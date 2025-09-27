@@ -1,8 +1,22 @@
-<h1 align="center">Hi 👋, I'm Prince</h1>
+<p align="center">
+  <img src="https://example.com/golden-wings-left.png" width="60" />
+  <h1>Hi 👋, I'm Prince</h1>
+  <img src="https://example.com/golden-wings-right.png" width="60" />
+</p>
+
 <h3 align="center">A passionate Python & Java learner, building projects step by step</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&width=500&lines=Python+Enthusiast;Java+Learner;Building+Cool+Projects" alt="Typing SVG" />
+</p>
+
+---
+
+### 📊 Learning Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-70%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-40%25-orange?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
