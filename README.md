@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="YOUR_LEFT_WING_URL" width="60" />
-  <h1>Hi 👋, I'm Prince</h1>
-  <img src="YOUR_RIGHT_WING_URL" width="60" />
-</p>
+<h1 align="center">Hi 👋, I'm Prince</h1>
 
 <h3 align="center">A passionate Python & Java learner, building projects step by step</h3>
 
@@ -51,9 +47,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently learning **Java** and **Python**
-- 👯 Building small learning projects to sharpen skills
-- 🌱 Focused on becoming a **creative and smart developer**
+- 🔭 Hobby: **Coding**  
+- 👯 Ambition: **Want to become an AI Developer**  
+- 🌱 Location: **India**  
 - 📫 Contact: **vyasp4327@gmail.com**
 
 ---
