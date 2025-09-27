@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> a2f71a700b0f5bfcf04b238af1a77b53f419647f
 def login_system(correct_username, correct_password):
     username = input("\033[33m Please enter your username here: \033[0m")
     password = input("\033[34m Now enter your password: \033[0m")
@@ -20,6 +23,10 @@ def login_system(correct_username, correct_password):
         return "wrong_username"
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a2f71a700b0f5bfcf04b238af1a77b53f419647f
 pass_Username = "Prince3082"
 pass_key = "Follow Prince"
 
@@ -33,4 +40,8 @@ if login_result == "wrong_password":
     login_system(pass_Username, pass_key)
 
 elif login_result == "wrong_username":
+<<<<<<< HEAD
     print("\033[31mAccess denied. Cannot reset password for unknown user.\033[0m")
+=======
+    print("\033[31mAccess denied. Cannot reset password for unknown user.\033[0m")
+>>>>>>> a2f71a700b0f5bfcf04b238af1a77b53f419647f
