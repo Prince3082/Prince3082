@@ -51,13 +51,13 @@
 ## 🏅 My CodinGame Certificate
 
 <p align="center">
-  <a href="https://www.codingame.com/certification/your-id" target="_blank">
+  <a href="https://www.codingame.com/profile/edc13e9e212794200d69e6d9537bc3f39608486" target="_blank">
     <img src="https://raw.githubusercontent.com/Prince3082/Prince3082/main/assets/certificate.png" alt="CodinGame Java Certificate" width="600px" />
   </a>
 </p>
 
 <p align="center">
-  🎓 <a href="https://www.codingame.com/certification/your-id" target="_blank"><b>View Official Certificate on CodinGame</b></a>
+  🎓 <a href="https://www.codingame.com/profile/edc13e9e212794200d69e6d9537bc3f39608486" target="_blank"><b>View My CodinGame Profile</b></a>
 </p>
 
 > 🧾 **Java Certification by CodinGame** — *Recognized as fully capable and skilled in Java problem solving*  
@@ -89,6 +89,7 @@
 
 - 📧 **Email:** vyasp4327@gmail.com  
 - 🌐 **GitHub:** [github.com/Prince3082](https://github.com/Prince3082)
+- 🎮 **CodinGame:** [codingame.com/profile/edc13e9e212794200d69e6d9537bc3f39608486](https://www.codingame.com/profile/edc13e9e212794200d69e6d9537bc3f39608486)
 
 ---
 
