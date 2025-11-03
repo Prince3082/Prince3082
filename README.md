@@ -51,7 +51,13 @@
 ## 🏅 My CodinGame Certificate
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prince3082/Prince3082/main/assets/certificate.png" alt="CodinGame Java Certificate" width="600px" />
+  <a href="https://www.codingame.com/certification/your-id" target="_blank">
+    <img src="https://raw.githubusercontent.com/Prince3082/Prince3082/main/assets/certificate.png" alt="CodinGame Java Certificate" width="600px" />
+  </a>
+</p>
+
+<p align="center">
+  🎓 <a href="https://www.codingame.com/certification/your-id" target="_blank"><b>View Official Certificate on CodinGame</b></a>
 </p>
 
 > 🧾 **Java Certification by CodinGame** — *Recognized as fully capable and skilled in Java problem solving*  
