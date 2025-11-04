@@ -28,7 +28,7 @@
 ---
 
 <h2>:books: My Python Projects</h2>
-Explore my diverse Python applications, from web scrapers to data tools, in the **[Python-Projects](https://github.com/Prince3082/Python-Projects)** repository.
+Explore my diverse Python applications, from web scrapers to data tools, in the [Python-Projects](https://github.com/Prince3082/Python-Projects) repository.
 
 ### 🔐 Login System  
 Smart password reset logic using Python functions.  
