@@ -17,12 +17,12 @@
 
 ---
 
-<p align="left">:round_pushpin: Profile visitors</p>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/Prince3082/count.svg)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prince3082&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 
-<a href="https://github.com/404">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
 ---
