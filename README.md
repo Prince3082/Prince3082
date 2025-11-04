@@ -8,15 +8,6 @@
 
 ---
 
-### 🧠 Learning Progress
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-70%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-40%25-orange?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
----
-
 ## 🐍 Python Learning Projects
 
 ### 🔐 Login System
