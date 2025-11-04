@@ -28,10 +28,11 @@
 - Add, remove, and track tasks  
 - Simple console-based app for daily tasks  
 
-### 📋 Task Manager
-- Add, delete, and view categorized tasks  
-- Uses lists, dictionaries, and functions  
-- Demonstrates conditionals, loops, and modular design  
+### 💰 Smart Expense Tracker
+- Add, view, and delete expenses with categories  
+- Calculates total expenses automatically  
+- Built using loops, conditionals, and dictionaries  
+- Console-based project for real-life budgeting practice  
 
 ---
 
