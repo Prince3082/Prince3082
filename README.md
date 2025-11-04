@@ -28,9 +28,10 @@
 - Add, remove, and track tasks  
 - Simple console-based app for daily tasks  
 
-### 🏃 Daily Habit Tracker
-- Track daily habits & progress  
-- Learn loops, conditionals, and functions in Python  
+### 📋 Task Manager
+- Add, delete, and view categorized tasks  
+- Uses lists, dictionaries, and functions  
+- Demonstrates conditionals, loops, and modular design  
 
 ---
 
@@ -95,5 +96,3 @@
 
 > 🧩 *“Code, Learn, Repeat. Let’s build something amazing together!”* 👨‍💻  
 > 💬 *#KeepLearning #CodingVibes #Prince3082*
-
----
