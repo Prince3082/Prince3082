@@ -7,8 +7,8 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on: **Smart Expense Tracker (Python)** <br>
-- 🌱 I’m currently learning: **Java + OOP Concepts** <br>
+- 🔭 I’m currently working on: **Intermediate Project: Hotel Reservation System (Java OOP)** <br>
+- 🌱 I’m currently learning: **Advanced Java + Object-Oriented Design (OOD)** <br>
 - 💬 Ask me about: **Python, Java, and Console Projects** <br>
 - 📫 How to reach me: **vyasp4327@gmail.com** <br>
 - ⚡ Fun fact: *Coding gives me peace more than coffee!* ☕ <br><br>
@@ -49,13 +49,19 @@ Built using loops, dictionaries, and file handling.  
 <h2>☕ My Java Projects</h2>
 Discover my Java projects, including foundational console applications and future enterprise solutions, in the [java-projects](https://github.com/Prince3082/java-projects) repository.
 
-### 💻 Age & ID Checker  
-Input age and check ID eligibility using Scanner.  
-Practice with `if-else` and logical operators.  
+### 🏨 Intermediate Project: Hotel Reservation System (In Progress)
+Currently building a multi-class system to manage **Rooms**, **Customers**, and **Reservations**. Focusing on **Object-Oriented Design (OOD)** and complex business logic.
+
+### 🎯 Number Guessing Game 
+A console game where the user guesses a secret number within a limited number of attempts. Used the **`Random` class** and **`while` loops** for control flow.
 
 ### 🖩 Simple Calculator  
 Performs addition, subtraction, multiplication, and division.  
-Uses Scanner input for user-based operations.  
+Foundational project using **`Scanner` input** and **`switch` statements** for operations.
+
+### 💻 Age & ID Checker  
+Input age and check ID eligibility using Scanner.  
+Practice with `if-else` and logical operators.  
 
 ---
 
