@@ -8,7 +8,6 @@
 </div>
 
 - 🔭 I’m currently working on: **Intermediate Project: Hotel Reservation System (Java OOP)** <br>
-- 🌱 I’m currently learning: **Advanced Java + Object-Oriented Design (OOD)** <br>
 - 💬 Ask me about: **Python, Java, and Console Projects** <br>
 - 📫 How to reach me: **vyasp4327@gmail.com** <br>
 - ⚡ Fun fact: *Coding gives me peace more than coffee!* ☕ <br><br>
