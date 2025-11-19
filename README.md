@@ -29,16 +29,16 @@
 <h2>:books: My Python Projects</h2>
 Explore my diverse Python applications, from web scrapers to data tools, in the [Python-Projects](https://github.com/Prince3082/Python-Projects) repository.
 
-### 🔐 Login System  
+### 🔐 <mark>Login System</mark>  
 Smart password reset logic using Python functions.  
 Prevents reset for unknown usernames.  
 Based on real-world login flow.  
 
-### 📝 Mini To-Do List  
+### 📝 <mark>Mini To-Do List</mark>  
 Add, remove, and track daily tasks.  
 Simple console-based app using lists and functions.  
 
-### 💰 Smart Expense Tracker  
+### 💰 <mark>Smart Expense Tracker</mark>  
 Add, view, and search expenses by category.  
 Automatically calculate total expenses.  
 Built using loops, dictionaries, and file handling.  
@@ -48,7 +48,7 @@ Built using loops, dictionaries, and file handling.  
 <h2>☕ My Java Projects</h2>
 Discover my Java projects, including foundational console applications and future enterprise solutions, in the [java-projects](https://github.com/Prince3082/java-projects) repository.
 
-### 🏨 Intermediate Project: Hotel Reservation System (In Progress)
+### 🏨 <mark>Intermediate Project: Hotel Reservation System</mark> (In Progress)
 Currently building a multi-class system to manage **Rooms**, **Customers**, and **Reservations**. Focusing on **Object-Oriented Design (OOD)** and complex business logic.
 
 ### 🎯 Number Guessing Game 
